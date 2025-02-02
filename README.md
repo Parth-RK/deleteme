@@ -7,36 +7,36 @@ Well, now that I am actually writing it, it sound like a terrifying thing, but w
 
 ---
 
-## C program
+## C 
 ```bash
 gcc deleteme.c
 ./a.out
 ```
 
-## C++ program
+## C++
 ```bash
 g++ deleteme.cpp
 ./a.out
 ```
 
-## Go program
+## Go 
 ```bash
 go build deleteme.go
 ./deleteme
 ```
 
-## Java program
+## Java
 ```bash
 javac deleteme.java
 java deleteme
 ```
 
-## JavaScript (Node.js) program
+## JavaScript (Node.js) 
 ```bash
 node deleteme.js
 ```
 
-## Python program
+## Python 
 ```bash
 python deleteme.py
 ```
@@ -45,7 +45,7 @@ or
 python3 deleteme.py
 ```
 
-## Rust program
+## Rust 
 ```bash
 rustc deleteme.rs
 ./deleteme
