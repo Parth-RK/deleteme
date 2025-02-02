@@ -6,7 +6,7 @@ public class deleteme {
         String javaFile = deleteme.class.getName().replace('.', File.separatorChar) + ".java";
         new Thread(() -> {
             try {
-                Thread.sleep(1000);  // Delay before deletion
+                Thread.sleep(1000);
                 new File(javaFile).delete();
                 new File(classFile).delete();
             } catch (InterruptedException e) {}
