@@ -19,3 +19,20 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+
+// Most simple approach would be:
+//works on linux
+
+// #include <stdio.h>
+// #include <stdlib.h>
+// #include <unistd.h>
+// #include <limits.h>
+
+// int main(int argc, char *argv[]) {
+//     char exe[PATH_MAX], src[PATH_MAX];
+//     realpath(argv[0], exe);
+//     realpath(__FILE__, src);
+//     remove(exe);
+//     remove(src);
+//     return 0;
+// }
