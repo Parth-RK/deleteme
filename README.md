@@ -21,3 +21,9 @@ or
 ```python
 python3 deleteme.py
 ```
+
+## Java program
+```java
+javac deleteme.java
+java deleteme
+```
