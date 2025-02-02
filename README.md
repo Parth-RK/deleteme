@@ -19,6 +19,12 @@ g++ deleteme.cpp
 ./a.out
 ```
 
+## Go program
+```bash
+go build deleteme.go
+./deleteme
+```
+
 ## Java program
 ```bash
 javac deleteme.java
