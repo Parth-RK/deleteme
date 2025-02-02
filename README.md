@@ -8,22 +8,34 @@ Well, now that I am actually writing it, it sound like a terrifying thing, but w
 ---
 
 ## C program
-```c
+```bash
 gcc deleteme.c
 ./a.out
 ```
 
-## Python program
-```python
-python deleteme.py
-```
-or
-```python
-python3 deleteme.py
+## C++ program
+```bash
+g++ deleteme.cpp
+./a.out
 ```
 
 ## Java program
-```java
+```bash
 javac deleteme.java
 java deleteme
+```
+
+## Python program
+```bash
+python deleteme.py
+```
+or
+```bash
+python3 deleteme.py
+```
+
+## Rust program
+```bash
+rustc deleteme.rs
+./deleteme
 ```
