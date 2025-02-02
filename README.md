@@ -25,6 +25,11 @@ javac deleteme.java
 java deleteme
 ```
 
+## JavaScript (Node.js) program
+```bash
+node deleteme.js
+```
+
 ## Python program
 ```bash
 python deleteme.py
