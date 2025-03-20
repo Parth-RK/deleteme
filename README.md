@@ -56,3 +56,21 @@ rustc deleteme.rs
 chmod +x deleteme.sh
 ./deleteme.sh
 ```
+
+### Un-Tested
+
+## Swift
+```bash
+swiftc deleteme.swift
+./deleteme
+```
+
+## PHP
+```bash
+php deleteme.php
+```
+
+## Perl
+```bash
+perl deleteme.pl
+```
