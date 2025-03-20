@@ -50,3 +50,9 @@ python3 deleteme.py
 rustc deleteme.rs
 ./deleteme
 ```
+
+## Bash
+```
+chmod +x deleteme.sh
+./deleteme.sh
+```
