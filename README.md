@@ -57,17 +57,17 @@ chmod +x deleteme.sh
 ./deleteme.sh
 ```
 
+## PHP
+```bash
+php deleteme.php
+```
+
 ### Un-Tested
 
 ## Swift
 ```bash
 swiftc deleteme.swift
 ./deleteme
-```
-
-## PHP
-```bash
-php deleteme.php
 ```
 
 ## Perl
